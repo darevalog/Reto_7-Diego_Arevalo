@@ -1,5 +1,7 @@
 # Reto #7 // Diego Arévalo
 
+This repository implement a new Class that creates and iterable with all the items in an order, it should allow looping and contain all item attributes.
+
 ```python
 import os
 os.system("cls")
@@ -203,3 +205,4 @@ for item in order_iterator:
         print(f"Volume: {item.volume} ml")
     print()
 ```
+> :shipit: Diego Alejandro Arévalo Guevara. August 14, 2024.
